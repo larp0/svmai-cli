@@ -1,0 +1,33 @@
+Repository directory: /tmp/repo-e9uIuY
+UwUify binary path: /app/src/lib/bin/uwuify
+Testing uwuify binary...
+uwu 
+Finding all markdown files...
+Found 4 markdown files to process
+Sample of files to process:
+/tmp/repo-e9uIuY/todo.md
+/tmp/repo-e9uIuY/README.md
+/tmp/repo-e9uIuY/architecture.md
+/tmp/repo-e9uIuY/CHANGELOG.md
+Created temporary directory for processing: /tmp/tmp.iop6hkW7fu
+Testing file read/write:
+Write test: SUCCESS
+Test
+Read test: SUCCESS
+Delete test: SUCCESS
+Processing batch starting at 1
+Processing: /tmp/repo-e9uIuY/todo.md
+Processing: /tmp/repo-e9uIuY/README.md
+Processing: /tmp/repo-e9uIuY/architecture.md
+Processing: /tmp/repo-e9uIuY/CHANGELOG.md
+Batch starting at 1 completed. Progress: 4/4 files processed
+Progress: 4/4 files processed (Errors: 4, Changed: 0)
+Final git operations
+Creating summary markdown file
+Cleaning up temporary files
+Processing summary:
+- Total files found: 4
+- Files processed: 4
+- Files changed: 0
+- Errors encountered: 4
+Completed processing files
